@@ -1,6 +1,5 @@
 ---
 title: "Test"
 date: 2021-01-11T22:47:55+09:00
-draft: true
 ---
 
