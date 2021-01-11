@@ -1,0 +1,4 @@
+baseURL = "https://goodjwon.github.io"
+languageCode = "en-us"
+title = "Goodjwon's Tech stroy"
+theme = "hugo-theme-learn-master"
